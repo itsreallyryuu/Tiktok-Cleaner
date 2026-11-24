@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tikcleaner</string>
+    <string name="acc_desc">Tikcleaner uses this service to tap and swipe inside the target app on your behalf, only while a cleaning session is running.</string>
+    <string name="hello_world">Hello World</string>
+</resources>
