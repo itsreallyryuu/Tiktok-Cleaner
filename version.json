@@ -1,0 +1,17 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/itsreallyryuu/Tiktok-Cleaner/releases/download/v1.1.0/Tikcleaner.apk",
+  "sha256": "",
+  "force": false,
+  "notes_id": "Deteksi halaman, verifikasi aksi, lebih cepat.",
+  "notes_en": "Page awareness, action verification, faster.",
+  "config": {
+    "profileKw": [],
+    "adKw": [],
+    "undoKw": [],
+    "tab0": [],
+    "tab1": [],
+    "tab2": []
+  }
+}
